@@ -1,0 +1,61 @@
+body {background-color: black;
+}
+
+nav {padding: 5px;
+	 margin-top: 10px;
+}
+
+ul {text-align: center;
+}
+
+li {list-style-type: none;
+	display: inline-block;
+}
+
+a {color: white;
+   transition: 0.5s;
+}
+
+a:hover {color: red;
+		 transition: 0.5s;
+}
+
+div {padding: 30px;
+	 color: white;
+}
+
+#Pawel {margin-left: 5%;
+}
+
+#Shelby {margin-left: 5%;
+}
+
+#Sergei {margin-left: 5%
+}
+
+#Brodie {margin-left: 13%;
+}
+
+#Nicole {margin-left: 45.5%;
+		 margin-top: -2.7%;
+}
+
+#Mitul {margin-left: 78%;
+		margin-top: -2.7%;
+}
+
+#Index {text-align: center;
+		margin-top: 13.35%
+}
+
+#Test {color: red;
+}
+
+#Test1 {margin-right: 0.5%;
+}
+
+#Good {margin-right: 0.5%;
+}
+
+#Giphy {margin-right: 0.5%;
+}

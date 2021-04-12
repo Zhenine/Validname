@@ -1,0 +1,65 @@
+body {background-color: black;
+}
+
+nav {padding: 5px;
+	 margin-top: 10px;
+}
+
+ul {text-align: center;
+}
+
+li {list-style-type: none;
+	display: inline-block;
+}
+
+a {color: white;
+   transition: 0.5s;
+}
+
+a:hover {color: red;
+		 transition: 0.5s;
+}
+
+div {padding: 30px;
+	 color: white;
+}
+
+#T {margin-left: 7.5%;
+}
+
+#H {margin-left: 5%;
+	height: 269px;
+	margin-bottom: 0.2%;
+}
+
+#C {margin-left: 5%;	
+}
+
+#Brodie {margin-left: 15.5%;
+}
+
+#Nicole {margin-left: 44%;
+		 margin-top: -2.7%;
+}
+
+#Mitul {margin-left: 74%;
+		margin-top: -2.7%;
+}
+
+#Index {text-align: center;
+		margin-top: 13%
+}
+
+#Test {color: red;
+}
+
+#Test1 {margin-right: 0.5%;
+}
+
+#Good {margin-right: 0.5%;
+}
+
+#Giphy {margin-right: 0.5%;
+}
+
+
