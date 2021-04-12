@@ -20,11 +20,11 @@ li {list-style-type: none;
 }
 
 a {color: white;
-   transition: 1s;
+   transition: 0.5s;
 }
 
 a:hover {color: red;
-		 transition: 1s;
+		 transition: 0.5s;
 }
 
 #Test {margin-right: 1%;
